@@ -1,12 +1,12 @@
 [submodule "base - pybpod-api"]
 	path = base/pybpod-api
-	url = https://github.com/pybpod/pybpod-api.git
+	url = https://github.com/ckarageorgkaneen/pybpod-api.git
 [submodule "base - pybpod-gui-api"]
 	path = base/pybpod-gui-api
 	url = https://github.com/pybpod/pybpod-gui-api.git
 [submodule "base - pybpod-gui-plugin"]
 	path = base/pybpod-gui-plugin
-	url = https://github.com/pybpod/pybpod-gui-plugin.git
+	url = https://github.com/ckarageorgkaneen/pybpod-gui-plugin.git
 [submodule "libs - pyforms-generic-editor"]
 	path = libraries/pyforms-generic-editor
 	url = https://bitbucket.org/fchampalimaud/pyforms-generic-editor.git
@@ -30,7 +30,7 @@
 	url = https://bitbucket.org/fchampalimaud/pge-plugin-terminal.git
 [submodule "plugins - pybpod-gui-plugin-emulator"]
 	path = plugins/pybpod-gui-plugin-emulator
-	url = https://github.com/pybpod/pybpod-gui-plugin-emulator.git
+	url = https://github.com/ckarageorgkaneen/pybpod-gui-plugin-emulator.git
 [submodule "plugins - pybpod-gui-plugin-trial-timeline"]
 	path = plugins/pybpod-gui-plugin-trial-timeline
 	url = https://github.com/pybpod/pybpod-gui-plugin-trial-timeline
