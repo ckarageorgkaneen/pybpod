@@ -3,7 +3,7 @@
 	url = https://github.com/ckarageorgkaneen/pybpod-api.git
 [submodule "base - pybpod-gui-api"]
 	path = base/pybpod-gui-api
-	url = https://github.com/pybpod/pybpod-gui-api.git
+	url = https://github.com/HenryJFlynn/pybpod-gui-api.git
 [submodule "base - pybpod-gui-plugin"]
 	path = base/pybpod-gui-plugin
 	url = https://github.com/ckarageorgkaneen/pybpod-gui-plugin.git
